@@ -1,2 +1,2 @@
-# epidemic-simuator
+# epidemic-simulator
 Epidemic Simulator in Qt5
